@@ -42,7 +42,7 @@ switch(cond) {
       console.log("case c");
       break;
 
-      
-}
 
+
+})
 main();

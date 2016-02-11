@@ -1,6 +1,6 @@
 /* JavaScript Test Code Template
-   Corey Shuman
-   11/30/15
+   Tomas
+   02-01-16
 
    This files contains some shortcut functions
    to manipulate the values for two input textboxes.
