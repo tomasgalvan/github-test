@@ -54,4 +54,7 @@ if(s == s.toUpperCase()){
 /*Create a function that takes a string as an input and returns an array of the characters in the string.
 Example input: "corey"
 Example output: ["c", "o", "r", "e", "y"]*/
-" ".split('')
+function seperateString(str) {
+	var str = string.split("");
+	return(str);
+}
